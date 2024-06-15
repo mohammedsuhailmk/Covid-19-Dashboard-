@@ -30,3 +30,8 @@ https://github.com/mohammedsuhailmk/Covid-19-Dashboard-/commit/954951956b693dc9b
 
 ![Covid_19_Analytics_Power_BI_Dashboard_page-0002](https://github.com/lijesh010/Covid-19_Global_Analytics_Power_BI_Project/assets/131745794/af9cb5b3-bba1-4ceb-b330-73c72d272a47)
 
+
+
+#### Customizable Filters: 
+Users can apply filters based on date ranges, countries, or regions to focus on specific areas of interest and perform detailed analysis.
+
